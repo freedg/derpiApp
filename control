@@ -1,0 +1,8 @@
+Package: com.aarkn.derpi
+Name: derpi
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: aarkn
+Author: aarkn
+Section: Utilities

@@ -1,0 +1,3 @@
+@interface KNRootViewController : UICollectionViewController
+
+@end
